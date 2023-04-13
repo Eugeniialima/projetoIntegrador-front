@@ -1,0 +1,102 @@
+.icone-lab{ 
+    display: flex;
+    position: absolute;
+    width: 152px;
+    height: 142px;
+    left: 134px;
+    top: 133px;
+    margin: 0;
+    
+}
+p{
+    font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+text-align: start;
+margin-top: 0;
+
+}
+
+form {
+    display: flex;
+    align-content: center;
+    margin-bottom: 40px;
+    border-radius: 15px;
+    height: 50px;
+    width: 100px;
+       
+}
+
+text{
+    color:gray;
+    align-self: center;
+    
+}
+
+label{
+    justify-content: center;
+    justify-items: center;
+    margin-top: 55px;
+    padding-bottom: 1s5px;
+}
+.continuar{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 13px 133px;
+gap: 10px;
+color:white;
+font-size: 18px;
+position: absolute;
+width: 365px;
+height: 51px;
+left: 29px;
+top: 587px;
+    background: linear-gradient(90deg, #FF6489 0%, #F9B24E 100%);
+    border: none;
+    border-radius: 27px;
+    align-self: center;
+    
+}
+
+.linha{
+   
+    background: linear-gradient(90deg, #FF6489 0%, #F9B24E 100%);
+    position: absolute;
+width: 363.01px;
+height: 1px;
+left: 33px;
+top: 656px;
+
+transform: rotate(0.32deg);
+}
+
+.criarUmaConta {
+    box-sizing: border-box;
+display: flex;
+flex-direction: row;
+justify-content: start;
+align-items: center;
+padding: 13px 133px;
+gap: 10px;
+position: absolute;
+width: 365px;
+height: 51px;
+left: 29px;
+top: 676px;
+background-color: white;
+color:#FE7E02;
+border: 1px solid #FE7E02;
+border-radius: 27px;
+
+}
+footer{
+
+    position: fixed;
+    bottom: 5px;
+    left: 145px;
+   
+    
+}
